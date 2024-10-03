@@ -47,7 +47,7 @@
 ###
 
 <div align="left">
-	<a href="https://twitter.com/SamuSamu_VYT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-	generator/master/src/images/icons/Social/twitter.svg" alt="samuel campos borrego" height="30" width="40" /></a>
+	<a href="https://twitter.com/SamuSamu_VYT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" 	alt="samuel campos borrego" height="30" width="40" /></a>
 	<a href="https://www.linkedin.com/in/samuel-c-651298297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-	generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel campos borrego" height="30" width="40" /></a>
 </div>
 
