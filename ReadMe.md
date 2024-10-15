@@ -7,7 +7,6 @@
 ###
 
 <p align="left">Programador & Diseñador<br><br>Actualmente estudiante para desarrollar videojuegos como programador y diseñador.</p>
-<p align="left" href="https://samusamu-v.itch.io">Enlace Itch.io<br></p>
 
 ###
 
