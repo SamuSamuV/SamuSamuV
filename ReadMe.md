@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Programador & Diseñador<br><br>Recién licenciado en Grado Oficial en Diseño y Desarrollo de Videojuegos y Entornos Virtuales en UDIT en la especialización de programación</p>
+<p align="left">Programador & Diseñador<br><br>Recién licenciado en Grado Oficial en Diseño y Desarrollo de Videojuegos y Entornos Virtuales en UDIT en la especialización de programación.</p>
 
 ###
 
